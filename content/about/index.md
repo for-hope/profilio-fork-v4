@@ -2,17 +2,18 @@
 title: 'About Me'
 avatar: './me.jpg'
 skills:
-  - JavaScript (ES6+)
+  - Android (Kotlin and Java)
   - HTML & (S)CSS
-  - React
-  - Vue
-  - Node.js
-  - Express
-  - NativeScript
+  - JavaScript (ES6+)
+  - Flutter
+  - Flask (Python)
+  - Unity (C#)
+  - MySQL / NoSQL
+  - Firebase
 ---
 
-Hello! I'm Brittany, a software engineer based in Boston, MA who enjoys building things that live on the internet. I develop exceptional websites and web apps that provide intuitive, pixel-perfect user interfaces with efficient and modern backends.
+Hello! I'm Lamine, an Information Systems and Web Technologies student based in Constantine, I love developing things for fun. I develop mobile apps and web apps that provide great, modern user interfaces with efficient backends.
 
-Shortly after graduating from [Northeastern University](https://www.ccis.northeastern.edu/), I joined the engineering team at [Upstatement](https://www.upstatement.com/) where I work on a wide variety of interesting and meaningful projects on a daily basis.
+I graduated from [University of Constantine 2](https://www.univ-constantine2.dz/) as an undergraduate, For the time being i'm doing my master's degree while doing part-time freelance work.
 
 Here are a few technologies I've been working with recently:
